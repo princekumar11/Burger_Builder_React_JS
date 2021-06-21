@@ -1,8 +1,8 @@
 # Burger_Builder_React_JS
 > Burger Builder is a food ordering application, where users can order burgers by choosing ingredients.
 > Build with Single Page application with React.
-  Used Redux with Saga for state management.
-  Build Authentication flow using Firebase.
+  It Used Redux with Saga for state management.
+  and Build Authentication flow using Firebase.
 
 Live on : https://burgerbuildup.netlify.app/
 
